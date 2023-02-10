@@ -4,7 +4,7 @@
 
 ## Project description
 
-The dataset contains data about the clients of Metanprombank. The task is to analyze the bank clients and segment them by the number of products, paying special attention to churn.
+The task is to analyze the bank clients and segment them by the number of products, paying special attention to churn.
 
 ## Skills & Tools
 
@@ -21,4 +21,4 @@ The dataset contains data about the clients of Metanprombank. The task is to ana
 
 ## Conclusions
 
-Based on the results of the analysis, 4 segments of banking product users were identified. It was found out that the probability of client churn increases with an increase in the number of products: for example, all owners of 4 products and more than 80% of the owners of 3 products left the bank. Recommendations were made for the bank's management to reduce client churn.
+Based on the results of the analysis, I identified 4 segments of banking product users. I found out that the probability of client churn rises with an increase in the number of products: for example, all owners of 4 products and more than 80% of the owners of 3 products left the bank. I have made several recommendations for the bank's management to reduce client churn.
