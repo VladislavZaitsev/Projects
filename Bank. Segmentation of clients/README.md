@@ -4,7 +4,7 @@
 
 ## Project description
 
-Analyze the bank clients and segment them by the number of products, paying particular attention to churn.
+The dataset contains data about the clients of Metanprombank. The task is to analyze the bank clients and segment them by the number of products, paying special attention to churn.
 
 ## Skills & Tools
 
