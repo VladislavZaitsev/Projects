@@ -2,6 +2,8 @@
 
 [Project in .ipynb](https://github.com/VladislavZaitsev/Projects/blob/main/Evaluation%20of%20AB-test%20results/Evaluation%20of%20AB-test%20results.ipynb)
 
+**Project status:** completed
+
 ## Project description
 
 Based on the data on the new recommender system, it is necessary to evaluate the correctness of the A/B-test, and also decide whether to implement the new system for all the users or stay on the current one.
