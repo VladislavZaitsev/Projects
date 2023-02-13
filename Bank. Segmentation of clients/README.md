@@ -1,6 +1,6 @@
 # Bank - Segmentation of clients according to the number of products
 
-[Project in .ipynb](https://github.com/VladislavZaitsev/Projects/blob/main/Bank.%20Segmentation%20of%20users.ipynb)
+[Project in .ipynb](https://github.com/VladislavZaitsev/Projects/blob/main/Bank.%20Segmentation%20of%20clients/Bank.%20Segmentation%20of%20clients.ipynb)
 
 **Project status:** completed
 
