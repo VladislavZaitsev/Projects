@@ -2,6 +2,8 @@
 
 [Project in .ipynb](https://github.com/VladislavZaitsev/Projects/blob/main/Bank.%20Segmentation%20of%20users.ipynb)
 
+**Project status:** completed
+
 ## Project description
 
 The task is to analyze the bank clients and segment them by the number of products, paying special attention to churn.
