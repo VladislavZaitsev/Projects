@@ -2,6 +2,8 @@
 
 [Project in .ipynb](https://github.com/VladislavZaitsev/Projects/blob/main/User%20behaviour/User%20behaviour.ipynb)
 
+**Project status:** completed
+
 ## Project description
 
 To analyze the sales funnel and evaluate the results of A/A/B testing based on the use of a mobile application for selling food.
