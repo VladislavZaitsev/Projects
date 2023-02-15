@@ -6,7 +6,7 @@
 
 ## Project description
 
-To analyze the sales funnel and evaluate the results of A/A/B testing based on the use of a mobile application for selling food.
+To analyze the sales funnel and evaluate the results of A/A/B testing based on the use of a mobile application for selling food, connected with the new font.
 
 ## Skills & Tools
 
@@ -23,6 +23,8 @@ To analyze the sales funnel and evaluate the results of A/A/B testing based on t
 
 ## Conclusions
 
-In this project, I studied the principles of event analytics. I built a sales funnel, and explored the path of users to purchase. I analyzed the results of an A/B test for introducing new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It is revealed that the new font does not significantly affect user behaviour.
+In this project, I built a sales funnel, and explored the path of users to purchase: out of 7419 unique users who participated in the experiment, only 47.7% (3539 users) reach the last step, payment. Most users get stuck when moving from the home screen to the offer screen - 38.1%. The reasons for this significant drop should be investigated and corrected accordingly.
+
+I analyzed the results of an A/B test for introducing new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. The result of A/A/B testing indicates that there is no statistically significant difference between the old and new fonts. Therefore, it is not advisable to make changes to the fonts.
 
 
