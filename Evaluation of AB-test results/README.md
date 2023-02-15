@@ -22,6 +22,6 @@ Based on the data on the new recommender system, it is necessary to evaluate the
 
 ## Conclusions
 
-Based on the available data, the expected effect from the introduction of the new recommender system was not confirmed: in 14 days from the moment of registration in the system, users did not show an improvement in each metric by at least 10%.
+The expected effect of the new recommender system was that in 14 days from the moment of registration in the system, users will show an improvement in each metric by at least 10%. Based on the available data, **the effect was not confirmed.**
 
 However, since the technical requirements were not met, the results of the A/B-test do not inspire confidence. In this regard, to solve the business problem of implementing the improved recommender system for all the users or maintaining the current one, it is necessary to conduct A/B-testing again, observing the requirements of the terms of reference.
